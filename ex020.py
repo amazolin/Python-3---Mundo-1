@@ -1,7 +1,7 @@
 import random
 
-deck = 'Pedro Manu Nicole Lucas'.split()
-random.shuffle(deck)   # embaralha a lista
-alunos = deck          # agora alunos contém a lista embaralhada
+lista = 'Pedro Manu Nicole Lucas'.split()
+random.shuffle(lista)   # embaralha a lista
+alunos = lista          # agora alunos contém a lista embaralhada
 
 print(alunos)
