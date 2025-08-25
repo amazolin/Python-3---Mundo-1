@@ -1,2 +1,2 @@
 nome = input('Digite seu nome completo: ')
-print('Silva' in nome)
+print('Silva' in nome.title())
